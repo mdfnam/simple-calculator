@@ -70,11 +70,11 @@ calculator/
 
 Snapshot: 
 ```
-Light mode:
-<img width="443" height="810" alt="image" src="https://github.com/user-attachments/assets/6bc4349c-c28a-4df2-9731-c6fc81ae6628" />
+### Light mode:
+![Light mode](https://github.com/mdfnam/simple-calculator/blob/main/Screenshot%202025-08-03%20161341.png)
 
-Dark mode:
-<img width="432" height="797" alt="image" src="https://github.com/user-attachments/assets/0c3afc0d-e547-4aa7-82e2-7a847627bf47" />
+### Dark mode:
+![Dark mode](https://github.com/mdfnam/simple-calculator/blob/main/Screenshot%202025-08-03%20161440.png)
 ```
 
 ---
