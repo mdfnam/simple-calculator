@@ -72,10 +72,10 @@ calculator/
 ## 📸 Snapshot:
 
 ### 🌞 Light mode:
-<img src="https://raw.githubusercontent.com/mdfnam/simple-calculator/main/Screenshot%202025-08-03%20161341.png">
+![Light mode](https://raw.githubusercontent.com/mdfnam/simple-calculator/main/Screenshot%202025-08-03%20161341.png)
 
 ### 🌙 Dark mode:
-<img src="https://raw.githubusercontent.com/mdfnam/simple-calculator/main/Screenshot%202025-08-03%20161440.png">
+![Dark mode](https://raw.githubusercontent.com/mdfnam/simple-calculator/main/Screenshot%202025-08-03%20161440.png)
 
 ```
 
