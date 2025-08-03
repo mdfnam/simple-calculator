@@ -31,7 +31,7 @@ calculator/
 ├── index.html       # Main HTML structure
 ├── style.css        # Styling for light/dark modes and layout
 ├── script.js        # JavaScript for calculator logic
-├── screenshot.png   # Optional: Screenshot preview for README
+├── screenshot.png   # Screenshot preview for README
 └── README.md        # Project overview (this file)
 ```
 
