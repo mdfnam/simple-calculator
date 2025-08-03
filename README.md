@@ -66,9 +66,7 @@ calculator/
 
 ---
 
-## 📸 Preview
-
-## 📸 Snapshot:
+## 📸 Preview:
 
 ### 🌞 Light mode:
 ![Light mode](https://raw.githubusercontent.com/mdfnam/simple-calculator/main/Screenshot%202025-08-03%20161341.png)
